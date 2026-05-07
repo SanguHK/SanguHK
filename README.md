@@ -1,7 +1,11 @@
 # 👋 Hi, I'm **Sanganna**  
 ## 🚀 Full Stack Developer | Problem Solver | Tech Enthusiast  
 
-![Profile Banner](https://via.placeholder.com/1200x400/0a0a0a/ffffff?text=Welcome+to+My+Profile)  
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m802519145-0f818742d4f4e7846a52b424) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgitbanner.saviru.me)
+
+
+![GitHub forks](https://img.shields.io/github/forks/Saviru/Animated-Profile-Banner-Generator) ![GitHub stars](https://img.shields.io/github/stars/Saviru/Animated-Profile-Banner-Generator)
+
 
 ---
 
