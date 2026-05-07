@@ -17,8 +17,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -27,21 +26,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
 
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" height="40" alt="typescript logo"  />
-       <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" alt="nodejs logo"  />
-     <img width="12" />
-   <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" height="40" alt="express logo"  />
-    <img width="12" />
-   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="40" alt="aws logo"  />
-    <img width="12" />
-   <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" height="40" alt="docker logo"  />
+  
+
+   
+   
   </div>
   
   
@@ -56,10 +49,8 @@
 
   <h3>Tools</h3>
   <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
-  <img width="12" />
+ 
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse logo" />
