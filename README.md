@@ -99,9 +99,9 @@
 ---
 
 ## 🌍 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/Sanganna/)  
-- 📧 Email: [your.email@example.com]  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 💼 [LinkedIn]( https://www.linkedin.com/in/sanganna-h-k-591571335  )  
+- 📧 Email: [sangannasangu43@gmail.com]  
+- 
 
 ---
 
