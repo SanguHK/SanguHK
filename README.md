@@ -107,7 +107,7 @@
 
 ## ✨ Personal Touch
 - 💡 I love solving complex problems through code and learning new technologies every day.  
-- 🌍 Outside of coding, I enjoy **photography**, **traveling**, and **exploring nature**.  
+- 🌍 Outside of coding, I enjoy **Playing Chess**, **Watching Cricket**.  
 - 🔍 I’m always looking for **collaborative projects** to work on and new challenges to grow my skills.  
 
 ---
