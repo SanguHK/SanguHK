@@ -84,22 +84,9 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanguHK&show_icons=true&theme=tokyonight)
 
-### 📊 GitHub Stats
-
-# 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="SanguHK stats" />
-</p>
-
-<p align="left">
-  <img src="https://herokuapp.com" alt="SanguHK streak" />
-</p>
-
-<p align="left">
-  <img src="https://vercel.app" alt="SanguHK languages" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=SanguHK&theme=tokyonight)
 
 
 
