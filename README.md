@@ -87,11 +87,20 @@
 
 ### 📊 GitHub Stats
 
-<!-- GitHub General Stats -->
-<img src="https://github-readme-stats-shion.dev" alt="SanguHK's GitHub Stats" />
+# 📊 GitHub Stats
 
-<!-- GitHub Streak Stats -->
-<img src="https://demolab.com" alt="SanguHK's GitHub Streak" />
+<p align="left">
+  <img src="https://vercel.app" alt="SanguHK stats" />
+</p>
+
+<p align="left">
+  <img src="https://herokuapp.com" alt="SanguHK streak" />
+</p>
+
+<p align="left">
+  <img src="https://vercel.app" alt="SanguHK languages" />
+</p>
+
 
 
 
