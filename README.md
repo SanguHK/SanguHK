@@ -87,9 +87,13 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://vercel.app)
+<!-- GitHub General Stats -->
+<img src="https://github-readme-stats-shion.dev" alt="SanguHK's GitHub Stats" />
 
-[![GitHub Streak](https://demolab.com)](https://git.io)
+<!-- GitHub Streak Stats -->
+<img src="https://demolab.com" alt="SanguHK's GitHub Streak" />
+
+
 
 
 
