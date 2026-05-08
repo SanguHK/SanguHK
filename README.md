@@ -68,14 +68,10 @@
 ### 📚 Digital Library Management System
 - 📌 **Description**: A web-based application for managing books, users, and transactions in a digital library system.  
 - 🚀 **Impact**: Simplified the management of digital content, used by local libraries for efficient resource allocation.  
-- 🔗 [View Project](https://github.com/Sanganna/Digital-Library-Management)  
+- 🔗 [View Project]((https://github.com/SanguHK/Library_Management-) 
 
 ---
 
-### 💍 Wedding Management System
-- 📌 **Description**: A platform to manage wedding events, guest lists, schedules, and services.  
-- 🚀 **Impact**: Streamlined event planning and made wedding management hassle-free for users.  
-- 🔗 [View Project](https://github.com/Sanganna/Wedding-Management)
 
 ---
 
