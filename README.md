@@ -78,7 +78,7 @@
 ### 😊 Real-Time Emotion Detection (Face & Voice)
 - 📌 **Description**: An application that detects emotions using facial expressions and voice input, designed for real-time feedback in interactive applications.  
 - 🚀 **Impact**: Improved user experience by integrating emotion-based reactions.  
-- 🔗 [View Project](https://github.com/Sanganna/Emotion-Detection)
+- 🔗 [View Project](https://github.com/SanguHK/Final_Project)
 
 ---
 
