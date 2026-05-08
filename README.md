@@ -99,7 +99,7 @@
 
 ## 🌍 Let's Connect
 - 💼 [LinkedIn]( https://www.linkedin.com/in/sanganna-h-k-591571335  )  
-- 📧 [Email] (https://www.mail.google.com/sangannasangu43@gmail.com)
+- 📧 [Email](mailto:sangannasangu43@gmail.com)
 - 
 
 ---
