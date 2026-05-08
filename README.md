@@ -68,7 +68,7 @@
 ### 📚 Digital Library Management System
 - 📌 **Description**: A web-based application for managing books, users, and transactions in a digital library system.  
 - 🚀 **Impact**: Simplified the management of digital content, used by local libraries for efficient resource allocation.  
-- 🔗 [View Project]((https://github.com/SanguHK/Library_Management-) 
+- 🔗 [View Project](https://github.com/SanguHK/Library_Management-) 
 
 ---
 
