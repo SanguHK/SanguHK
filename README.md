@@ -86,7 +86,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanganna&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sanganna&theme=tokyonight)
+![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=https://github.com/SanguHK&cache_seconds=1800)](https://git.io/streak-stats))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanganna&layout=compact&theme=tokyonight)
 
