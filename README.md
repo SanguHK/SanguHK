@@ -86,7 +86,7 @@
 
 
 
-([GitHub Streak](https://streak-stats.demolab.com?user=SanguHK&cache_seconds=1800)
+([GitHub Streak](https://streak-stats.demolab.com?user=SanguHK&cache_seconds=1800))
 
 
 ---
